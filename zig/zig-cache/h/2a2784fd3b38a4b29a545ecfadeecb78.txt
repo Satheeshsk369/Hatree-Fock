@@ -1,2 +1,0 @@
-861312 909836 1703686827189007019 294cbe86fec8885786c21644bc231ed0 /home/satheeshkumar/Desktop/Hatree-Fock/zig/zig-cache/o/bee3e340b7a41adf092b551d33c07a8e/zig.o
-65092 853978 1703436687500314507 95a6efb96755b75cad00316d89273b1c /home/satheeshkumar/.cache/zig/o/ae8169c82adbe9c5534ee51fd8e37534/libcompiler_rt.a
